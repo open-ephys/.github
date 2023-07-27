@@ -17,7 +17,7 @@ Feel free to get in touch via discord if you have questions!
 
 ### Community Guidelines
 We follow the [Open Hardware Makers Community Guidelines](https://openhardware.space/guidelines/). Instances violating these guidelines
-may be reported by the Open Ephys team info@open-ephy.org. All complaints will be reviewed and investigated and will result in a response 
+may be reported to the Open Ephys team info@open-ephy.org. All complaints will be reviewed and investigated and will result in a response 
 that is deemed necessary and appropriate to the circumstances. The team is obligated to maintain confidentiality with regard to the reporter 
 of an incident.
 
