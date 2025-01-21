@@ -8,7 +8,7 @@ contributions!
 
 ### Contact
 - Discord Server: https://discord.gg/bCCeuCnd5J
-- Twitter: https://twitter.com/OpenEphys
+- Bluesky: https://bsky.app/profile/openephys.bsky.social
 
 ### Contribution Guidelines
 We use GitHub issues for bug reports and feature requests. Code and hardware contributions can be made using pull requests. If you are 
